@@ -1,0 +1,11 @@
+{
+  "labels":[
+    "recitals",
+    "title",
+    "appendix",
+    "definitions",
+    "signatures",
+    "notices"
+  ],
+  "threshold":0.5
+}
